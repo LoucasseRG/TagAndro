@@ -40,7 +40,6 @@ $(document).ready(function(){
 		tlm: {
           40296 : "Andro Fabi",
           144050 : "Andro Adil",
-          133362 : "Andro Gabi",
           154528 : "Andro Nexus",
           312057 : "Andro Origins64",
 	  185523 : "Andro Johann",
