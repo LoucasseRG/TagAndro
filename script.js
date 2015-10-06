@@ -13,36 +13,43 @@ $(document).ready(function(){
 			40296 : "Andro Fabi",
 		},
 		admin: {
-			97187 : "Andro Kretaw",
+			144050 : "Andro Adil",
 		},
 		modo: {
-    144050 : "Andro Adil",
-    133362 : "Andro Gabi"
+    			154528 : "Andro Nexus",
 		},
 		recruteur: {
 			0 : "Il n'y a aucun recruteur Andro",
 		},
 		graphiste: {
-      0 : "Il n'y a aucun graphiste Andro",
+      			312057 : "Andro Origins64",
 		},
 		redacteur: {
-            67979 : "Andro Blackwolf",
+        	 	67979 : "Il n'y aucun rédacteur Andro",
 		},
 		membre: {
-    389694 : "Andro ByQze",
-    156906 : "Andro Reeplay",
-    536203 : "Andro Djeny"
+			185523 : "Andro Johann",
+			215980 : "Baptiste",
+			345730 : "Andro Maax"
+			561749 : "Andro Enwish",
+			503543 : "Andro Weax",
+			478607 : "Andro Alz'",
+			414999 : "Andro Nappa",
     
 		},
 		tlm: {
-    40296 : "Andro Fabi", 
-          97187 : "Andro Kretaw",
+          40296 : "Andro Fabi",
           144050 : "Andro Adil",
           133362 : "Andro Gabi",
-          67979 : "Andro Blackwolf",
-          389694 : "Andro ByQze",
-          156906 : "Andro Reeplay",
-          536203 : "Andro Djeny"
+          154528 : "Andro Nexus",
+          312057 : "Andro Origins64",
+	  185523 : "Andro Johann",
+	  215980 : "Baptiste",
+	  345730 : "Andro Maax"
+	  561749 : "Andro Enwish",
+	  503543 : "Andro Weax",
+	  478607 : "Andro Alz'",
+	  414999 : "Andro Nappa",
 
 		}
 	};
