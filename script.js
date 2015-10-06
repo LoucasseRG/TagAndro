@@ -30,7 +30,7 @@ $(document).ready(function(){
 		membre: {
 			185523 : "Andro Johann",
 			215980 : "Baptiste",
-			345730 : "Andro Maax"
+			345730 : "Andro Maax",
 			561749 : "Andro Enwish",
 			503543 : "Andro Weax",
 			478607 : "Andro Alz'",
@@ -45,7 +45,7 @@ $(document).ready(function(){
           312057 : "Andro Origins64",
 	  185523 : "Andro Johann",
 	  215980 : "Baptiste",
-	  345730 : "Andro Maax"
+	  345730 : "Andro Maax",
 	  561749 : "Andro Enwish",
 	  503543 : "Andro Weax",
 	  478607 : "Andro Alz'",
